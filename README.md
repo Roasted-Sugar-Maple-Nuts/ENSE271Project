@@ -12,7 +12,7 @@
 
 ## Members 
 <ul> 
-  <li> Taisha Barth</li>
+  <li>Taishi Barth</li>
   <li>Kristina Langgard</li>
   <li>Abraham Mugerwa</li>
   <li>Tirth Patel</li>
