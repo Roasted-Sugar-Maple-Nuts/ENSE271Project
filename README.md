@@ -28,8 +28,8 @@ to be updated
 ## Northstar and Carryover Customers
 <ul>
   <li>North Star Customer :  Professors </li>
-  <li>Carryover Customer : Administrator (Dev and Gina)</li>
-  <li>                     students </li>
+  <li>Carryover Customer : Administrator (Dev and Gina)   and students </li>
+                      students 
   </ul>
 
 ## Project Documentation
