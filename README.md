@@ -26,7 +26,11 @@ to be updated
 to be updated
 
 ## Northstar and Carryover Customers
-to be updated
+<ul>
+  <li>North Star Customer :  Professors </li>
+  <li>Carryover Customer : Administrator (Dev and Gina)</li>
+  <li>                     students </li>
+  </ul>
 
 ## Project Documentation
 to be updated
