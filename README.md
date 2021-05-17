@@ -29,8 +29,8 @@ to be updated
 <ul>
   <li>North Star Customer :  Professors </li>
   <li>Carryover Customer : Administrator (Dev and Gina)   and students </li>
-                      students 
-  </ul>
+                      
+ </ul>
 
 ## Project Documentation
 to be updated
