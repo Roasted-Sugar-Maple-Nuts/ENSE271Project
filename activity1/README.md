@@ -15,8 +15,8 @@ The empathy map created with data from the initial project discussion.
 The affinity diagram created with data from the initial project discussion.
 
 ### User Story Map
-The user story map as of May 18, 2021. The content is possibly subject to changes
-as more ideas come into fruition. The most recent changes can be viewed on
+The user story map as of May 18, 2021. The content is subject to change as more
+ideas possibly come into fruition. The most recent changes can be viewed on
 [StoriesOnBoard](https://landofooo.storiesonboard.com/m/copy-of-roasted-sugar-maple-nuts-usm).
 
 ### Meeting Notes
