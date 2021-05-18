@@ -35,4 +35,4 @@ The main goal of the project is to make this process more simple to the staff. O
  </ul>
 
 ## Project Documentation
-Available under releases
+Required documentation is provided in their associated activity folder.
