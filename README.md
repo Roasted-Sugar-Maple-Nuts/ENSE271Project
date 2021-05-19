@@ -30,7 +30,7 @@ The main goal of the project is to make this process more simple to the staff. O
 ## Northstar and Carryover Customers
 <ul>
   <li>North Star Customer :  Professors </li>
-  <li>Carryover Customer : Administrator (Dev and Gina)   and students </li>
+  <li>Carryover Customer : Accreditation administration and students </li>
                       
  </ul>
 
