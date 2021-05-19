@@ -24,5 +24,8 @@ on the top left of the document. The first number indicates the row and the
 second indicates the column.
 
 ### Meeting Notes
-Any notes taken on the initial project discussion and the checkpoint on May 17, 2021
-are on this document.
+These notes contain helpful information provided by the customers. The first set
+came from the initial project discussion and were used as research for eventually
+creating a minimum viable product. The second set came from the checkpoint on May
+17, 2021. These contain feedback from the customers and additional potentially useful
+information.
