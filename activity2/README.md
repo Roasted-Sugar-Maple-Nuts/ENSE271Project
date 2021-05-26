@@ -15,3 +15,5 @@ numbers on the top left of the document. The first number indicates the row and 
 second indicates the column.
 
 ### Meeting Notes
+
+Updated as of May 26, 2021 for more customer feedback.
