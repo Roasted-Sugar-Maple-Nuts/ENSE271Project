@@ -16,4 +16,9 @@ second indicates the column.
 
 ### Meeting Notes
 
-Updated as of May 26, 2021 for more customer feedback.
+The previous notes from activity 1 now also have more notes from the May 26, 2021
+meeting discussing brainstormed product ideas.
+
+### Group Folders
+Each group member has a separate folder containing their sitemap and their
+low fidelity prototypes.
