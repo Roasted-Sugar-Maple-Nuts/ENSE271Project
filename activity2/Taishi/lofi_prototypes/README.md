@@ -13,5 +13,7 @@ attribute per course.
 ### View submitted OBA screen
 When searching for OBAs, the layout would be similar to other search sites with the
 results in a list, filter options to the left, and searching at the top right.
-To reduce clutter, each course can expand to show their OBAs. The idea of having the
-same courses with different terms be a separate item would likely have to be revised.
+Users will have knowledge of this layout and not have to figure out where common search
+functionality is found. To reduce clutter, each course can expand to show their OBAs.
+The idea of having the same courses with different terms be a separate item would likely
+have to be revised.
