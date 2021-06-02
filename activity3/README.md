@@ -18,6 +18,7 @@ These notes include all the previous notes, as well as new insight from the June
 2021 customer check in regarding high-fidelity prototype feedback.
 
 ### High-Fidelity Prototype
+The high-fidelity prototype is an xd file which is used by Adobe XD.
 
 ### People-Centered Design Traits
 This file discusses the topics which were taught in class and how they apply to our
